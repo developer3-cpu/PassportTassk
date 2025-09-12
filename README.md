@@ -81,4 +81,17 @@ registration/
 └── 2323_XYZ/
     ├── Self_XYZ_Passport.jpg
     └── Spouse_XYZ_Passport.jpg (if provided)
+
+
+
+
+08_25 Pipe Project Completion Tracking & Review (1).xlsx I have this excel sheet whcih is used to track the status of several projects (Turn key installations) of Agricultural and industiral type projects, which are of huge values and execution timelines span several months or years as well.
+
+Problem: My team is currently tracking the status is a dirty excel format, which I dont like, its error prone and we cannot digest the information in a clean way. Also, when multiple people work on this, the sheet become cluttered and the past information, audit trail etc is lost.
+
+What i want: I want to change this whole status tracking approach and create an ONLINE WEB PORTAL which is quick, real time and allows multiple people to collaborate in punching the data. Plus I want to have management roles on this portal, where they can see the data in clean presentable format, and see reports as well. I also want the editors / admins / management roles to update the data right in this portal itself, so that any updates in the status is seemlessly handled from the same portal.
+
+What I want you to do: Create a web based portal, using apple style SF Pro Display font, and bento box designs, with client side filters and quick data fetchers. I wan to use MySql data base for the DB data storage, but for now, I just want to create a mock data and complete the front end website skeleton first. We will tackle the DB / storage for realtime data later.
+
+Please review the excel sheet and propose a good portal solution
 ```
