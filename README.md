@@ -57,7 +57,6 @@ A web application for dealers to upload passport documents. The system includes 
 ## Usage
 
 1. Open the application in your browser (typically at http://localhost:5173)
-2. https://docs.google.com/spreadsheets/d/1WERo3j6ZOTagyE75U64sTMD5sD1eM1PT/edit?gid=796863543#gid=796863543
 3. Enter a 10-digit mobile number
 4. Enter the OTP (121212)
 5. Fill in the passport upload form with dealer information and upload passport documents
